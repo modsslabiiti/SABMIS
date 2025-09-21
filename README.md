@@ -88,11 +88,14 @@ Code used: ssim.m
 If you use this code in your research, please cite:
 
 ```
-@article{singh2025chameleon2++,
-  title={Chameleon2++: An efficient chameleon2 clustering with approximate nearest neighbors},
-  author={Singh, Priyanshu and Ahuja, Kapil},
-  journal={arXiv preprint arXiv:2501.02612},
-  year={2025}
+@article{agrawal2022sabmis,
+  title={SABMIS: sparse approximation based blind multi-image steganography scheme},
+  author={Agrawal, Rohit and Ahuja, Kapil and Steinbach, Marc C and Wick, Thomas},
+  journal={PeerJ Computer Science},
+  volume={8},
+  pages={e1080},
+  year={2022},
+  publisher={PeerJ Inc.}
 }
 ```
 
