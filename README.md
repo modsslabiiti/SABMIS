@@ -7,7 +7,7 @@ Published in *PeerJ Computer Science, 2022*
 
 ---
 
-## 📑 Abbreviations
+## Abbreviations
 - **PSNR**: Peak Signal-to-Noise Ratio  
 - **SSIM**: Mean Structural Similarity Index  
 - **NCC**: Normalized Cross-Correlation Coefficient  
@@ -15,7 +15,7 @@ Published in *PeerJ Computer Science, 2022*
 
 ---
 
-## 📂 Data Files (Images)
+## Data Files (Images)
 
 1. `Fruits.png`  
 2. `peppers_gray.tif`  
@@ -35,7 +35,7 @@ Published in *PeerJ Computer Science, 2022*
 
 ---
 
-## 📂 Code Files (MATLAB)
+## Code Files (MATLAB)
 
 1. `MultiImageSteg.m` – Main code file for embedding  
 2. `ImageSampling.m` – Performs image sampling  
@@ -53,7 +53,7 @@ Published in *PeerJ Computer Science, 2022*
 
 ---
 
-## ⚙️ Parameters (from manuscript)
+## Parameters (from manuscript)
 
 ```matlab
 b      = blk_Cover       = 8        % block size
@@ -67,6 +67,7 @@ alpha  = 0.01
 beta   = 0.1
 gama   = 1
 temp1  = c = 6
+---
 
 ## Citation
 
